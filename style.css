@@ -30,5 +30,17 @@
     
 }
 .item-1{
- flex-basis: 200px;
+ /* flex: 1; 1 1 0  */
+ flex: 1;
+
 }
+
+.item-2{
+    /* flex: 1; 1 1 0  */
+    flex: 1;
+    
+   }
+   .item-3{
+    /* flex: 1; 1 1 0  */
+    flex:1 ;
+   }
