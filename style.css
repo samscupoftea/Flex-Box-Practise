@@ -20,7 +20,7 @@
     
     flex-wrap: wrap;
     align-content:flex-start;
-    gap: 10px 15px ;
+    /* gap: 10px 15px ; */
 }
 .item{
     width: 100px; 
@@ -29,4 +29,6 @@
     background: pink;
     
 }
-
+.item-1{
+ flex-basis: 200px;
+}
