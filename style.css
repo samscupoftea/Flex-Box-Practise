@@ -1,14 +1,28 @@
 body{
-    margin: 0 
+    margin: 0;
+    
 }
 
 h1,
 h2,
 h3 {
     border:3px solid red;
+    display: block;
+
+
 
 }
 
 p{
     border: 3px solid red;
+display: block;
 }
+
+strong {
+    color: red;
+    display:inline-flexbox;
+    border: 1px solid red;
+    padding-top: 30px;
+    padding-bottom:30px
+}
+
