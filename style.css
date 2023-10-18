@@ -14,12 +14,14 @@
     display: flex;
     /* flex-direction: column; */
     /* justify-content: flex-start; */
-       /* align-items: baseline; */
+    align-items: flex-start;
     border: 5px solid black;
     height: 500px;
+    justify-content: center;
+    align-items: center;
     
-    flex-wrap: wrap;
-    align-content:flex-start;
+    /* flex-wrap: wrap;
+    align-content:flex-start; */
     /* gap: 10px 15px ; */
 }
 .item{
@@ -29,18 +31,3 @@
     background: pink;
     
 }
-.item-1{
- /* flex: 1; 1 1 0  */
- flex: 1;
-
-}
-
-.item-2{
-    /* flex: 1; 1 1 0  */
-    flex: 1;
-    
-   }
-   .item-3{
-    /* flex: 1; 1 1 0  */
-    flex:1 ;
-   }
