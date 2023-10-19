@@ -7,7 +7,8 @@
 * {
     margin: 0;
     padding: 0;
-    line-height: 0.5;
+    line-height: 1.5;
+    background-color: cadetblue;
 }
 
 .container{
@@ -17,15 +18,14 @@
     /* align-items: flex-start; */
     border: 5px solid black;
     height: 500px;
-    width: 500px;
+    width: 600px;
+
+    margin-inline:  auto;
+   
     justify-content: center;
-    align-items: center;
-
-
-margin: 0 auto;
-    
+   align-items: center;
     /* flex-wrap: wrap;
-    align-content:flex-start; */
+    /* align-content:flex-start; */ 
     /* gap: 10px 15px ; */
 }
 .item{
@@ -34,4 +34,9 @@ margin: 0 auto;
     border: 5px solid red;
     background: pink;
     
+}
+
+.title{
+    text-align: center;
+
 }
