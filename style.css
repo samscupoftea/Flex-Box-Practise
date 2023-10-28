@@ -1,4 +1,4 @@
-*,
+/* *,
 *::before,
 *::after {
     box-sizing: border-box;
@@ -16,18 +16,18 @@
     /* flex-direction: column; */
     /* justify-content: flex-start; */
     /* align-items: flex-start; */
-    border: 5px solid black;
+    /* border: 5px solid black;
     height: 500px;
     width: 600px;
 
     margin-inline:  auto;
    
     justify-content: center;
-   align-items: center;
+   align-items: center; */
     /* flex-wrap: wrap;
     /* align-content:flex-start; */ 
     /* gap: 10px 15px ; */
-}
+/* }
 .item{
     width: 100px; 
     height: 100px;
@@ -39,4 +39,6 @@
 .title{
     text-align: center;
 
-}
+} */ 
+
+
